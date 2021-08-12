@@ -1,1 +1,1 @@
-# Path-Finding-Visualization-Tool-using-A-algorithm
+# Path-Finding-Visualization-Tool-using-Astar-algorithm
